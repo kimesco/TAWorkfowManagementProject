@@ -5,8 +5,8 @@
  
 ## How the Code works
 The code does the following:
-·         Highlights duplicate values from one or more columns.
-·         Deletes duplicate values from one or more columns.
+- Highlights duplicate values from one or more columns.
+- Deletes duplicate values from one or more columns.
  
 onOpen() function:
 This function is a Google function that allows the user to create a “button” in the Menu option of Google Sheets.
