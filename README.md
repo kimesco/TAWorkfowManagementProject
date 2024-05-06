@@ -2,6 +2,8 @@
 ## AppScript Duplication Checker for Google Sheets
 
 *Disclaimer: After testing and reviewing the code, it did not indicate any form of security risk. However, implementation of this across the INFO College should abide by any cybersecurity policy implemented by the college and university*
+
+Azhar, Aris. Effortlessly Remove Duplicates in Google Sheets Using Apps Script - Aris Azhar, Aris Azhar - Trusted Digital Concierge, 5 Feb. 2024, arisazhar.com/effortlessly-remove-duplicates-in-google-sheets-using-apps-script/
  
 ## How the Code works
 The code does the following:
@@ -23,6 +25,3 @@ removeMultiDuplicates() function:
 The removeMultiDuplicates function does the same as removeDuplicates function but with multiple columns. Chosen. Goes through the columns cells to find the duplicates and deletes those duplicates from the multiple chosen columns.
 getColumnInput() function:
 This prompts the pop-up box for grabbing the user input. It records the user’s response to determine what the user has chosen. If the user does not press “okay” it does nothing.
-
-
-Azhar, Aris. Effortlessly Remove Duplicates in Google Sheets Using Apps Script - Aris Azhar, Aris Azhar - Trusted Digital Concierge, 5 Feb. 2024, arisazhar.com/effortlessly-remove-duplicates-in-google-sheets-using-apps-script/
